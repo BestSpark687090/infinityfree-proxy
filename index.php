@@ -1,5 +1,10 @@
 <?php
-    // Configure the upstream hostname here
+    // Created by BestSpark687090
+    // if you need support, join my discord at https://discord.gg/bestspark.
+    // or just email me at bestspark@bestspark.org.
+    // PSA: this code is ai generated. I don't know PHP.
+    
+    // Configure the URL you want to point it to. Change this... or don't! Up to you!
     $target_host = 'bestspark.org';
 
     $log = __DIR__ . '/proxy_log.txt';

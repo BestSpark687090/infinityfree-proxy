@@ -1,3 +1,7 @@
+# Created by BestSpark687090.
+# Need help? Join my discord at https://discord.gg/bestspark
+# OR email me at bestspark@bestspark.org.
+
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
